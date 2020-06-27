@@ -1,4 +1,5 @@
- # -*- coding: utf-8 -*-
+python faitagram -s twitter -u DysonDB -w wlist
+# -*- coding: utf-8 -*-
 import argparse, mechanize, os, sys, socks, socket
 from time import sleep
 from subprocess import call
